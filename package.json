@@ -1,0 +1,12 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "synthwave84.disableGlow": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "german 4rchila",
+  "license": "ISC"
+}
